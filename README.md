@@ -84,7 +84,7 @@ Cap' Jjoong 是一只住在电脑桌面上的松鼠船长。
 
 ---
 
-## 💌 开发者
+## 💌 开发者自述
 
 Created and developed by **Be.honest.** ♡
 
